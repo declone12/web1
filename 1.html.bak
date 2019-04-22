@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<title>테스트 페이지</title>
+< + title + > + < + / + title + > = 제목을 설정해주는 기능<br>
+<meta charset="utf-8">< + meta + charset="utf*8" + > = 글자깨지는거 한글로 이 본문은 utf-8로 저장되었단 것<br>
+</html>
+<body>
+ctrl + o = 파일열기<br>
+< + strong + > + < + / + strong + > = <strong>강조</strong><br>
+< + u + > + < + / + u + > = <u>밑줄</u><br>
+< + h1~h6 + > + < + / + h1~h6 + > = <h1>제목크기 순서</h1><br>
+< + br + > = 줄바꿈<br>
+<p>< + p + > + < + / + p + > = 범위지정 줄바꿈</p>
+<p style="margin-top:35px;">style="margin-top:35px;+margin으로 둘레 조정+-top이든 뭔든 붙이면 어디를 할지 지정가능</p>
+<img src="logo.png" width="10%"> = 그림 불러오기 가능<br>
+<li>< + li + > + < + / + li + > = 리스트작업 앞에 점찍기</li><br>
+<ul><li>< + ul + > + < + / + ul + > = 리스트앞 그룹별로 범위지정 가능 Unirdered List</li></ul><br>
+<ol><li>< + ol + > + < + / + ol + > = 리스트작업 앞에 번호순서나열하기 Ordered List</li></ol><br>
+< + head + > + < + / + head + > = 바디를 설명하는 태그는 head 태그로 묶는다<br>
+< + body + > + < + / + body + > = 본문은 body 태그로 묶는다<br>
+< + html + > + < + / + html + > = head 랑 body 태그를 감싼느 태그는 html 태그<br>
+< + !doctype + html + > = 이 문서는 hrml 타입이라는 뜻<br>
+<a href="file:///C:/Users/%EA%B9%80%EB%AC%B8%EC%84%B1%20%EC%A3%BC%EC%9E%84/Downloads/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B0%96%EA%B3%A0%EB%85%B8%EB%8A%94%EA%B1%B0/web/1.html">< + a + href="주소" + > + < + / + a + > = 링크를 걸고싶은 위치에 저 표시를 넣는다</a>
+
+
+
+
+</body>
+</html>
